@@ -18,7 +18,7 @@
     "eslint:fix": "npm run eslint -- --fix",
     "install:clean": "npm install",
     "postbuild": "prettier -c -w dist",
-    "postcoverage": "c8 report --reporter=lcov",
+    "postcoverage": "c8 report",
     "postdocs:build": "prettier -c -w docs",
     "postpublish": "npm run build:remove",
     "prebuild": "npm run build:remove",
