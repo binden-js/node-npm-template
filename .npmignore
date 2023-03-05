@@ -1,5 +1,5 @@
 # c8 config
-.c8.json
+.c8rc.json
 
 # Coverage directory used by c8
 coverage
