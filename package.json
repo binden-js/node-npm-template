@@ -8,8 +8,8 @@
     "test": "test"
   },
   "engines": {
-    "node": ">=18.7.0",
-    "npm": ">=8.15.0"
+    "node": ">=18.16.1",
+    "npm": ">=9.5.1"
   },
   "scripts": {
     "build": "tsc",
