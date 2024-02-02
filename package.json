@@ -36,7 +36,7 @@
   },
   "license": "AGPL-3.0-only",
   "devDependencies": {
-    "@binden/commitlint-config": "^2.0.0",
+    "@binden/commitlint-config": "^2.1.0",
     "@binden/semantic-release-config": "^3.0.0",
     "@binden/tsconfig": "^2.0.0",
     "@types/mocha": "^10.0.6",
